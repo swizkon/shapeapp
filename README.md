@@ -1,0 +1,3 @@
+# Shape app #
+
+Hard ware / software labs using arduino and diff sensors + cameras etc...
